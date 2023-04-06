@@ -1,0 +1,236 @@
+Lemonade 
+Iced Tea
+Soda
+Juice
+Coffee
+Hot Chocolate
+Cappuccino
+Tea
+Energy Drinks
+Sports Drinks
+Kombucha
+Coconut Water
+Orange Juice
+Apple Juice
+Cranberry Juice
+Grape Juice
+Wheatgrass Juice
+Tomato Juice
+
+Chocolate Milk
+Vegetable Juice
+Ginger Ale
+Root Beer
+Sparkling Water
+Protein Shakes
+Milk Shake
+Frappuccino
+Iced Coffee
+Ice Tea
+Chai Latte
+Infused Water
+Matcha Latte
+Bubble tea
+Hot Lemon Water
+Cold-pressed Juice
+kvass
+Yerba Mate
+Turmeric Latte
+Rooibos Tea
+Herbal Tea
+Mango Lassi
+iced cocoa
+Watermelon Juice
+Blueberry Juice
+iced green tea
+milkshake
+strawberry lemonade
+iced chai latte
+iced mocha
+hot chocolate
+iced cappuccino
+iced Americano
+iced latte
+iced macchiato
+iced caramel latte
+iced vanilla latte
+iced pumpkin spice latte
+iced hazelnut latte
+iced cinnamon latte
+iced cocoa latte
+iced coffee frappe
+iced matcha latte
+iced hibiscus tea
+iced mint tea
+iced black tea
+iced tea lemonade
+iced white chocolate mocha
+iced chamomile tea
+iced lavender latte
+iced peach tea
+iced honey lemon tea
+iced Earl Grey tea
+iced spiced chai
+iced mint mojito
+iced ginger beer
+iced turmeric latte
+iced raspberry lemonade
+iced green smoothie
+iced cold brew coffee
+iced oolong tea
+iced jasmine tea
+iced rooibos tea
+iced hibiscus lemonade
+iced lavender honey latte
+iced coconut milk latte
+iced chai cappuccino
+iced white tea
+iced maple latte
+iced blackberry lemonade
+iced honeydew melon juice
+iced peach green tea
+iced lavender honey iced tea
+iced peppermint mocha
+iced chai vanilla latte
+
+Strawberry Banana Smoothie
+Mango Smoothie
+Blueberry Smoothie
+Pineapple Smoothie
+Peach Smoothie
+Raspberry Smoothie
+Blackberry Smoothie
+Cherry Smoothie
+Pomegranate Smoothie
+Watermelon Smoothie
+Grapefruit Smoothie
+Orange Smoothie
+Kiwi Smoothie
+Papaya Smoothie
+Avocado Smoothie
+Apple Smoothie
+Cucumber Smoothie
+Spinach Smoothie
+Kale Smoothie
+Beet Smoothie
+Carrot Smoothie
+Chocolate Smoothie
+Vanilla Smoothie
+Peanut butter Smoothie
+Coconut Smoothie
+Acai Smoothie
+Banana Smoothie
+Yogurt Smoothie
+Strawberries Smoothie
+Honeydew Melon Smoothie
+Grape Smoothie
+Lemon Smoothie
+Lime Smoothie
+Dragonfruit Smoothie
+Guava Smoothie
+Melon Smoothie
+Passionfruit Smoothie
+Blackcurrant Smoothie
+Cranberry Smoothie
+Goji Berry Smoothie
+Fig Smoothie
+Apricot Smoothie
+Nectarine Smoothie
+Persimmon Smoothie
+Pumpkin Smoothie
+Chia seeds Smoothie
+FlaxseedSmoothie
+
+Strawberry Milkshake
+Chocolate Chip Milkshake
+Butterfinger Milkshake
+Mint Chocolate Chip Milkshake
+Oreo Milkshake
+Peanut Butter Cup Milkshake
+Salted Caramel Milkshake
+Cookies and Cream Milkshake
+Peanut Butter Milkshake
+Coffee Milkshake
+Chocolate Fudge Milkshake
+Chocolate Malt Milkshake
+Black and White Milkshake
+Rocky Road Milkshake
+Brownie Milkshake
+Toffee Milkshake
+Key Lime Milkshake
+Hazelnut Milkshake
+Caramel Milkshake
+Maple Milkshake
+Irish Cream Milkshake
+S'mores Milkshake
+Red velvet Milkshake
+Eggnog Milkshake
+Cinnamon Milkshake
+Pumpkin spice Milkshake
+Apple Pie Milkshake
+Chocolate Banana Milkshake
+Butterscotch Milkshake
+Peanut Butter and Jelly Milkshake
+Green Tea Milkshake
+Cotton candy Milkshake
+Snickers Milkshake
+White chocolate Milkshake
+Milk chocolate Milkshake
+Dark chocolate Milkshake
+Coffee Toffee Milkshake
+Caramel macchiato Milkshake
+Strawberry Cheesecake Milkshake
+Chocolate Hazelnut Milkshake
+Chocolate Peanut Butter Milkshake
+
+Coffee
+Espresso 
+Americano 
+Cappuccino 
+Latte 
+Macchiato 
+Mocha 
+Frappuccino 
+Iced Coffee 
+Cold Brew 
+Irish coffee 
+Flat White 
+Caramel Macchiato 
+Vanilla Latte 
+Pumpkin Spice Latte 
+Hazelnut Latte 
+Cinnamon Latte 
+Mocha Latte 
+White Mocha 
+Black and White Mocha 
+Almond milk Latte 
+Soy milk Latte 
+Coconut milk Latte 
+Iced Caramel Macchiato 
+Iced Vanilla Latte 
+Iced Mocha 
+Espresso con Panna 
+Iced Americano 
+Cortado 
+Turkish Coffee 
+Red Eye 
+Bull's Eye 
+Black Eye 
+Dirty Chai 
+Vanilla Bean Cappuccino 
+Iced Hazelnut Latte 
+Iced Cinnamon Latte 
+Iced Caramel Latte 
+Iced Mocha Latte 
+Iced White Mocha 
+Iced Black and White Mocha 
+Iced Almond Milk Latte 
+Iced Soy Milk Latte 
+Iced Coconut Milk Latte 
+Iced Flat White 
+Iced Irish Coffee 
+Iced Coffee Frappe 
+Iced Matcha Latte 
+Iced Turmeric Latte 
+Iced Rooibos Latte 
+Iced Herbal Latte 
